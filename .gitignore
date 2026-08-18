@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Build files
+*.o
+*.out
+*.exe
+
+# Generated executable
+loader
+
+# Temporary files
+*~
+*.tmp
